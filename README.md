@@ -10,6 +10,7 @@ The News App is a modern web application built with React, Vite, and TypeScript.
 
 The News App is designed to be fast, scalable, and easy to maintain. It uses modern web development practices, including JSX, React hooks, and CSS modules. The app is also configured with ESLint and Prettier to ensure code quality and consistency.
 
+
 ✨ **Features**
 ----------------
 
@@ -22,6 +23,7 @@ The News App is designed to be fast, scalable, and easy to maintain. It uses mod
 7. **ESLint Configuration**: Enforce coding standards with ESLint
 8. **Prettier Integration**: Auto-format code with Prettier
 
+
 🧰 **Tech Stack**
 ----------------
 
@@ -30,6 +32,7 @@ The News App is designed to be fast, scalable, and easy to maintain. It uses mod
 | Frontend | React, TypeScript, Vite |
 | Backend | News API |
 | Tools | ESLint, Prettier, CSS modules |
+
 
 📁 **Project Structure**
 -------------------------
@@ -44,6 +47,7 @@ The News App is designed to be fast, scalable, and easy to maintain. It uses mod
 * `eslint.config.js`: ESLint configuration file
 * `index.html`: Entry point for the app
 
+
 ⚙️ **How to Run**
 ----------------
 
@@ -52,6 +56,7 @@ The News App is designed to be fast, scalable, and easy to maintain. It uses mod
 3. Build the app for production: `npm run build`
 4. Deploy the app: `npm run deploy`
 
+
 🧪 **Testing Instructions**
 -------------------------
 
@@ -59,15 +64,6 @@ The News App is designed to be fast, scalable, and easy to maintain. It uses mod
 2. Use a testing library such as Jest to write unit tests for components and utility functions
 3. Use a testing library such as Cypress to write end-to-end tests for the app
 
-📸 **Screenshots**
-----------------
-
-[Insert screenshots of the app in action]
-
-📦 **API Reference**
--------------------
-
-* `getTopHeadlines(category, page)`: Fetch top headlines from the News API
 
 👤 **Author**
 -------------
@@ -76,7 +72,3 @@ The News App is designed to be fast, scalable, and easy to maintain. It uses mod
 * Prathunotfound@gmail.com
 * Akola , Maharashtra 
 
-
-MIT License
-
-This project is licensed under the MIT License, which allows for free use, modification, and distribution of the project.
